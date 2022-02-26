@@ -25,6 +25,7 @@ Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/ABIRNQg.gif)
 ![](https://i.imgur.com/jUu1LuI.gif)
-![](https://i.imgur.com/fdoIuXd.gif)
+![](https://i.imgur.com/RhwUhxF.gif)
+
 ![](https://i.imgur.com/76rS0th.gif)
 ![](https://i.imgur.com/CbTWhXa.gif)
